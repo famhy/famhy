@@ -1,17 +1,9 @@
-<br clear="both">
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=famhy.famhy&"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Fahmi and I'm a Web developer from Tunisia</h2>
 
 ###
-
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=famhy.famhy&"  />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=famhy" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=famhy" height="150" alt="languages graph"  />
@@ -27,9 +19,6 @@
 
 ###
 
-<img align="right" height="150" src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -48,14 +37,19 @@
 
 ###
 
-<br clear="both">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-<img src="https://raw.githubusercontent.com/famhy/famhy/blob/output/snake.svg" alt="Snake animation" />
+- ✨ Creating bugs since 2015
 
-###
+- 🌱 I’m currently Working as web developer
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&theme=dracula" alt="Layout with last medium posts"  />
-</div>
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Flutter
+
+
+<br/>
 
 ###
